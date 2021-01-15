@@ -7,7 +7,7 @@ vue 作为基座,子项目分别使用vue,react
 
 # micro-vue
 
-
+技术栈 vue2.x vue-router vue-axios axios vuex vant
 
 
 # micro-react
@@ -15,4 +15,3 @@ vue 作为基座,子项目分别使用vue,react
 技术栈:creat-react-app react-router-dom react-redux redux ant-design 
 
 
-devvvvv
